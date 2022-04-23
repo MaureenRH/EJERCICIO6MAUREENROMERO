@@ -1,0 +1,17 @@
+table, th, td{
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-style: dotted;
+    background-color: #ffff00;
+}
+
+.titulos {
+
+    color: #ff0000;
+}
+
+.bordeabajo{
+
+    border-bottom: #ff0000;
+}
